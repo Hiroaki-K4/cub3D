@@ -6,4 +6,5 @@ areas: windows, colors, events, fill shapes, etc.
 To conclude cub3D is a remarkable playground to explore the playful practical applications of mathematics without having to understand the specifics.
 With the help of the numerous documents available on the internet, you will use
 mathematics as a tool to create elegant and efficient algorithms.
+
 ![cub3d](https://user-images.githubusercontent.com/51109408/123183313-43275480-d4cc-11eb-838a-96b2d6246720.png)
