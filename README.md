@@ -29,12 +29,13 @@ Clean all files
 make fclean
 ```
 
+# Dependencies
+This program has been confirmed to work only on ubuntu. Since I use [minilibx](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html), please install the required libraries with the following command.
+```
+sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev
+```
+
 # How to run
-main.c is your program. Please write #include "ft_printf.h" in your main.c.
 ```
-gcc main.c -L. -lftprintf
-```
-Run the program.
-```
-./a.out
+./cub3D sample.cub
 ```
