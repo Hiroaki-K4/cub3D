@@ -8,7 +8,7 @@ With the help of the numerous documents available on the internet, you will use
 mathematics as a tool to create elegant and efficient algorithms.
 
 ![cub3d](https://user-images.githubusercontent.com/51109408/123183313-43275480-d4cc-11eb-838a-96b2d6246720.png)
-![cub3d](https://user-images.githubusercontent.com/51109408/123183946-9cdc4e80-d4cd-11eb-95ed-215e6cb6087d.gif)
+![cub3D](https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif)
 
 <br>
 
