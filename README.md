@@ -11,6 +11,9 @@ mathematics as a tool to create elegant and efficient algorithms.
 ![cub3D](https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif)
 
 <br>
+# Ray casting
+I used Ray casting to draw the wall. I referred to [lodev](https://lodev.org/cgtutor/raycasting.html)
+<br>
 
 # How to build
 Build the files.
