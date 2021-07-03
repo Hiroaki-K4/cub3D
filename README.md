@@ -13,7 +13,7 @@ mathematics as a tool to create elegant and efficient algorithms.
 <br>
 
 # Ray casting
-I used Ray casting to draw the wall. I referred to [lodev](https://lodev.org/cgtutor/raycasting.html)
+I used Ray casting to draw the wall. I referred to [lodev](https://lodev.org/cgtutor/raycasting.html).
 
 <br>
 
