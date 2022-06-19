@@ -45,7 +45,7 @@ make fclean
 # Dependencies
 This program has been confirmed to work only on ubuntu. Since I use [minilibx](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html), please install the required libraries with the following command.
 ```
-sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev
+sudo apt-get update && sudo apt-get install xorg libxext-dev zlib1g-dev libbsd-dev
 ```
 
 # How to run
