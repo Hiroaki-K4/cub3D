@@ -9,11 +9,6 @@ mathematics as a tool to create elegant and efficient algorithms.
 
 <br>
 
-# My score
-![cub3d](https://user-images.githubusercontent.com/51109408/123183313-43275480-d4cc-11eb-838a-96b2d6246720.png)
-
-<br>
-
 # Example
 ![cub3D](https://user-images.githubusercontent.com/51109408/123184044-d1e8a100-d4cd-11eb-873c-8a6e104d6924.gif)
 
